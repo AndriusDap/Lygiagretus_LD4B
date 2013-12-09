@@ -1,0 +1,27 @@
+4
+5
+110 1.12 Pirmas
+120 1.13 Antras
+130 1.12 Trecias
+140 1.11 Ketvirtas
+150 1.11 Penktas
+6
+11 1.18 Pirmas
+12 1.14 Antras
+13 1.14 Trecias
+14 1.13 Ketvirtas
+15 1.12 Penktas
+16 1.11 Sestas
+7
+19 1.11 Pirmas
+18 1.12 Antras
+17 1.13 Trecias
+15 1.14 Ketvirtas
+12 1.15 Penktas
+11 1.18 Sestas
+11 1.17 Septintas
+3
+1 1.1 Pirmas
+1 1.2 Antras
+1 1.3 Trecias
+
